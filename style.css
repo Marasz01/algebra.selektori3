@@ -37,3 +37,7 @@ div {
     font-weight: bold;
     background-color: #fcc;
 }
+.fot div:first-of-type{
+    font-weight: bold;
+    background-color: #ecf;
+}
