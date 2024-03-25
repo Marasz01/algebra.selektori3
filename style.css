@@ -41,3 +41,7 @@ div {
     font-weight: bold;
     background-color: #ecf;
 }
+.oot *:only-of-type{
+    font-weight: bold;
+    background-color: magenta;
+}
